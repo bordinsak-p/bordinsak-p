@@ -6,7 +6,6 @@ Programmer
 
 Tech stack used Angular, Quarkus
 
-* ✉️  You can contact me at [bodinsak2544@gmail.com](mailto:bodinsak2544@gmail.com)
 
 ### Skills
 
